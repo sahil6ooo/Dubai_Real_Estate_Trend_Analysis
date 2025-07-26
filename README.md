@@ -22,7 +22,8 @@ This project analyzes Dubai property sales data using Python and Power BI to unc
 ---
 
 ## 🖼️ Dashboard Preview
-![Dubai_Real_Estate_Trend_Analysis](./Dubai-Dashboard-Screenshot.PNG)
+![Dubai Real Estate Dashboard](./Dubai-Dashboard-Screenshot.png)
+
 
 ---
 
