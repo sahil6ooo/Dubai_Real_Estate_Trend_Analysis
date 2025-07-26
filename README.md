@@ -16,13 +16,13 @@ This project analyzes Dubai property sales data using Python and Power BI to unc
 - **Most & Least Expensive Areas:** Based on price per square foot.
 - **Top Property Types:** Apartments, Villas, and Penthouses by listing count.
 - **Interactive Map:** Visualizing property locations using latitude & longitude.
-- **KPI Cards:** Showcasing average rent, total listings, and unique area count.
+- **KPI Cards:** Showing average rent, total listings, and unique area count.
 - **Slicers:** Allowing users to filter by property type and area dynamically.
 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dubai Real Estate Dashboard](./Dubai Real Estate Dashboard.PNG)
+![Dubai Real Estate Dashboard](./Dubai-Dashboard-Screenshot.PNG)
 
 ---
 
@@ -32,5 +32,5 @@ Dubai_Real_Estate_DataAnalysis/
 ├── analysis.ipynb                    # Python-based data analysis
 ├── Dubai_Property_Sales.csv          # Raw dataset
 ├── Dubai_Real_Estate_Report.pbix     # Power BI dashboard file
-├── Dubai Real Estate Dashboard.PNG   # Dashboard screenshot
+├── Dubai-Dashboard-Screenshot.PNG    # Dashboard screenshot
 └── README.md                         # This documentation
